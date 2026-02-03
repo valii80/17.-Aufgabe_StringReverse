@@ -2,6 +2,6 @@
   <Folder Name="/Projektmappenelemente/">
     <File Path=".gitignore" />
   </Folder>
-  <Project Path="17.Aufgabe_for_Schleife/17.Aufgabe_for_Schleife.csproj" />
-  <Project Path="17.Aufgabe_StringReverse/17.Aufgabe_Array+Reverse.csproj" />
+  <Project Path="17.Aufgabe_Array+Reverse/17.Aufgabe_Array+Reverse.csproj" Id="be36dbe2-791a-4a3c-a812-9f7317c924bf" />
+  <Project Path="17.Aufgabe_for_Schleife/17.Aufgabe_for_Schleife.csproj" Id="f16e3e5f-d1d4-4dea-a320-1d75a139264b" />
 </Solution>

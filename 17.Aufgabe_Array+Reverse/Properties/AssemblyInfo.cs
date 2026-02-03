@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Allgemeine Informationen über eine Assembly werden über die folgenden
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
-[assembly: AssemblyTitle("17.Aufgabe_StringReverse")]
+[assembly: AssemblyTitle("17.Aufgabe_Array+Reverse")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("17.Aufgabe_StringReverse")]
+[assembly: AssemblyProduct("17.Aufgabe_Array+Reverse")]
 [assembly: AssemblyCopyright("Copyright ©  2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Die folgende GUID bestimmt die ID der Typbibliothek, wenn dieses Projekt für COM verfügbar gemacht wird
-[assembly: Guid("3ef51936-9bd6-4980-b601-b110c1cc0ec3")]
+[assembly: Guid("be36dbe2-791a-4a3c-a812-9f7317c924bf")]
 
 // Versionsinformationen für eine Assembly bestehen aus den folgenden vier Werten:
 //
