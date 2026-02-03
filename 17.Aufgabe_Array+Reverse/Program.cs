@@ -14,10 +14,21 @@ namespace _17.Aufgabe_StringReverse
                 Console.Write("Text eingeben: ");
                 string text = Console.ReadLine();
 
-                char[] zeichen = text.ToCharArray();
+                string text_neu = "";
+                    
+                    for(int i = text.Length -1; i >= 0; i--)
+            {
+                text_neu += text[i]; 
+            }
+            Console.WriteLine(text_neu);
+
+
+
+
+                /*char[] zeichen = text.ToCharArray();
                 Array.Reverse(zeichen);
 
-                Console.WriteLine(new string(zeichen));
+                Console.WriteLine(new string(zeichen));*/
             }
         }
     }
